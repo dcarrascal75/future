@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on VidaEficiente</title>
-    <link>https://vidaeficiente.es/categories/</link>
+    <link>http://vidaeficiente.es/categories/</link>
     <description>Recent content in Categories on VidaEficiente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Mon, 11 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://vidaeficiente.es/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vidaeficiente.es/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>syntax</title>
-      <link>https://vidaeficiente.es/categories/syntax/</link>
+      <link>http://vidaeficiente.es/categories/syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vidaeficiente.es/categories/syntax/</guid>
+      <guid>http://vidaeficiente.es/categories/syntax/</guid>
       <description></description>
     </item>
     
     <item>
       <title>themes</title>
-      <link>https://vidaeficiente.es/categories/themes/</link>
+      <link>http://vidaeficiente.es/categories/themes/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vidaeficiente.es/categories/themes/</guid>
+      <guid>http://vidaeficiente.es/categories/themes/</guid>
       <description></description>
     </item>
     

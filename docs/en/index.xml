@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VidaEficiente</title>
-    <link>https://vidaeficiente.es/en/</link>
+    <link>http://vidaeficiente.es/en/</link>
     <description>Recent content on VidaEficiente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://vidaeficiente.es/en/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://vidaeficiente.es/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Libro Ingles</title>
-      <link>https://vidaeficiente.es/en/blog/libro/</link>
+      <link>http://vidaeficiente.es/en/blog/libro/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://vidaeficiente.es/en/blog/libro/</guid>
+      <guid>http://vidaeficiente.es/en/blog/libro/</guid>
       <description>ese peaso libro en INGLES</description>
     </item>
     
     <item>
       <title>Guide de syntaxe de Markdown</title>
-      <link>https://vidaeficiente.es/en/blog/markdown-syntax/</link>
+      <link>http://vidaeficiente.es/en/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vidaeficiente.es/en/blog/markdown-syntax/</guid>
+      <guid>http://vidaeficiente.es/en/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Contenu riche</title>
-      <link>https://vidaeficiente.es/en/blog/rich-content/</link>
+      <link>http://vidaeficiente.es/en/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vidaeficiente.es/en/blog/rich-content/</guid>
+      <guid>http://vidaeficiente.es/en/blog/rich-content/</guid>
       <description>&lt;p&gt;Hugo est livré avec plusieurs [Shortcodes intégrés] (&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&lt;/a&gt;) pour un contenu riche, ainsi qu&amp;rsquo;une [Privacy Config] ( &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;https://gohugo.io/about/hugo-and-gdpr/&lt;/a&gt;) et un ensemble de codes courts simples qui permettent des versions statiques et sans JS de diverses intégrations de médias sociaux.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://vidaeficiente.es/en/about/</link>
+      <link>http://vidaeficiente.es/en/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vidaeficiente.es/en/about/</guid>
+      <guid>http://vidaeficiente.es/en/about/</guid>
       <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:
  https://github.</description>
@@ -51,10 +51,10 @@ Hugo makes use of a variety of open source projects including:
     
     <item>
       <title>Books</title>
-      <link>https://vidaeficiente.es/en/books/books/</link>
+      <link>http://vidaeficiente.es/en/books/books/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://vidaeficiente.es/en/books/books/</guid>
+      <guid>http://vidaeficiente.es/en/books/books/</guid>
       <description>INGLES
 GitHub.
 Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
@@ -63,10 +63,10 @@ Hugo makes use of a variety of open source projects including:</description>
     
     <item>
       <title>Contact</title>
-      <link>https://vidaeficiente.es/en/contact/</link>
+      <link>http://vidaeficiente.es/en/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://vidaeficiente.es/en/contact/</guid>
+      <guid>http://vidaeficiente.es/en/contact/</guid>
       <description></description>
     </item>
     
