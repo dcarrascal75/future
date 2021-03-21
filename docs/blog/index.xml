@@ -2,39 +2,39 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Blog on VidaEficiente</title>
-    <link>https://dcarrascal75.github.io/future/blog/</link>
+    <link>https://vidaeficiente.es/blog/</link>
     <description>Recent content in Blog on VidaEficiente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dcarrascal75.github.io/future/blog/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vidaeficiente.es/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Libro Frances</title>
-      <link>https://dcarrascal75.github.io/future/blog/libro/</link>
+      <link>https://vidaeficiente.es/blog/libro/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dcarrascal75.github.io/future/blog/libro/</guid>
+      <guid>https://vidaeficiente.es/blog/libro/</guid>
       <description>ese peaso libro en FRANCES</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://dcarrascal75.github.io/future/blog/markdown-syntax/</link>
+      <link>https://vidaeficiente.es/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dcarrascal75.github.io/future/blog/markdown-syntax/</guid>
+      <guid>https://vidaeficiente.es/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://dcarrascal75.github.io/future/blog/rich-content/</link>
+      <link>https://vidaeficiente.es/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dcarrascal75.github.io/future/blog/rich-content/</guid>
+      <guid>https://vidaeficiente.es/blog/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     

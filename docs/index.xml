@@ -2,48 +2,48 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VidaEficiente</title>
-    <link>https://dcarrascal75.github.io/future/</link>
+    <link>https://vidaeficiente.es/</link>
     <description>Recent content on VidaEficiente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://dcarrascal75.github.io/future/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://vidaeficiente.es/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Libro Frances</title>
-      <link>https://dcarrascal75.github.io/future/blog/libro/</link>
+      <link>https://vidaeficiente.es/blog/libro/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://dcarrascal75.github.io/future/blog/libro/</guid>
+      <guid>https://vidaeficiente.es/blog/libro/</guid>
       <description>ese peaso libro en FRANCES</description>
     </item>
     
     <item>
       <title>Markdown Syntax Guide</title>
-      <link>https://dcarrascal75.github.io/future/blog/markdown-syntax/</link>
+      <link>https://vidaeficiente.es/blog/markdown-syntax/</link>
       <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dcarrascal75.github.io/future/blog/markdown-syntax/</guid>
+      <guid>https://vidaeficiente.es/blog/markdown-syntax/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Rich Content</title>
-      <link>https://dcarrascal75.github.io/future/blog/rich-content/</link>
+      <link>https://vidaeficiente.es/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dcarrascal75.github.io/future/blog/rich-content/</guid>
+      <guid>https://vidaeficiente.es/blog/rich-content/</guid>
       <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>Libros</title>
-      <link>https://dcarrascal75.github.io/future/books/books/</link>
+      <link>https://vidaeficiente.es/books/books/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dcarrascal75.github.io/future/books/books/</guid>
+      <guid>https://vidaeficiente.es/books/books/</guid>
       <description>FRANCES
 GitHub.
 Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
@@ -52,19 +52,19 @@ Hugo makes use of a variety of open source projects including:</description>
     
     <item>
       <title>Sobre mí</title>
-      <link>https://dcarrascal75.github.io/future/about/</link>
+      <link>https://vidaeficiente.es/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://dcarrascal75.github.io/future/about/</guid>
+      <guid>https://vidaeficiente.es/about/</guid>
       <description>Écrit dans Go, Hugo est un générateur de site statique open source disponible sous la [Apache License 2.0.] (Https://github.com/gohugoio/hugo/blob/master/LICENSE) Hugo prend en charge les types de fichiers de données TOML, YAML et JSON , Markdown et fichiers de contenu HTML et utilise des shortcodes pour ajouter du contenu riche. Les autres fonctionnalités notables sont les taxonomies, le mode multilingue, le traitement d&amp;rsquo;image, les formats de sortie personnalisés, la minification HTML / CSS / JS et la prise en charge des flux de travail Sass SCSS.</description>
     </item>
     
     <item>
       <title>Contacto</title>
-      <link>https://dcarrascal75.github.io/future/contact/</link>
+      <link>https://vidaeficiente.es/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://dcarrascal75.github.io/future/contact/</guid>
+      <guid>https://vidaeficiente.es/contact/</guid>
       <description></description>
     </item>
     
