@@ -2,7 +2,7 @@
 # https://github.com/pacollins/hugo-future-imperfect-slim/wiki/config.toml
 baseurl                 = "https://dcarrascal75.github.io/future/"
 DefaultContentLanguage  = "es"
-title                   = "VidaEfectiva"
+title                   = "VidaEficiente"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 3
 disqusShortname         = "vidaeficiente-es"
@@ -44,14 +44,14 @@ disableLanguages        = []
 
 
   [params.header]
-    navbarTitle         = "VidaEfectiva"
+    navbarTitle         = "VidaEficiente"
     dynamicTitles       = true
     searchMenu          = true
     shareMenu           = true
     languageMenu        = true
 
   [params.intro]
-    header                = "VidaEfectiva"
+    header                = "VidaEficiente"
     paragraph             = "Un diario.... sobre el viaje hacia un mejor lugar"
     rssIntro              = true
     socialIntro           = true
@@ -64,6 +64,7 @@ disableLanguages        = []
       width               = ""
       alt                 = "El Viajero"
 
+  #About lateral. configurar.
   [params.sidebar]
     about               = "This theme was developed for Hugo static site generator."
     postAmount          = 5
@@ -154,13 +155,13 @@ disableLanguages        = []
   [Languages.en]
     LanguageCode        = "en"
     LanguageName        = "English"
-    title               = "VidaEfectiva"
+    title               = "VidaEficiente"
     description         = "Daily notes about a travel to a better place"
     weight              = 2
 
 
   [Languages.en.params.intro]
-    header                = "VidaEfectiva"
+    header                = "VidaEficiente"
     paragraph             = "Daily notes about a travel to a better place"
     rssIntro              = true
     socialIntro           = true
