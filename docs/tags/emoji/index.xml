@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>emoji on VidaEfectiva</title>
-    <link>https://example.com/tags/emoji/</link>
+    <link>https://dcarrascal75.github.io/future/tags/emoji/</link>
     <description>Recent content in emoji on VidaEfectiva</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
     <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://dcarrascal75.github.io/future/tags/emoji/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Libro Frances</title>
-      <link>https://example.com/blog/libro/</link>
+      <link>https://dcarrascal75.github.io/future/blog/libro/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/blog/libro/</guid>
+      <guid>https://dcarrascal75.github.io/future/blog/libro/</guid>
       <description>ese peaso libro en FRANCES</description>
     </item>
     
