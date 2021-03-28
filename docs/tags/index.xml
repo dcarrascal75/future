@@ -12,47 +12,11 @@
     
     
     <item>
-      <title>emoji</title>
-      <link>http://vidaeficiente.es/tags/emoji/</link>
+      <title>libros</title>
+      <link>http://vidaeficiente.es/tags/libros/</link>
       <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://vidaeficiente.es/tags/emoji/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>css</title>
-      <link>http://vidaeficiente.es/tags/css/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://vidaeficiente.es/tags/css/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>html</title>
-      <link>http://vidaeficiente.es/tags/html/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://vidaeficiente.es/tags/html/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>markdown</title>
-      <link>http://vidaeficiente.es/tags/markdown/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://vidaeficiente.es/tags/markdown/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>themes</title>
-      <link>http://vidaeficiente.es/tags/themes/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://vidaeficiente.es/tags/themes/</guid>
+      <guid>http://vidaeficiente.es/tags/libros/</guid>
       <description></description>
     </item>
     

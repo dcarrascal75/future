@@ -14,23 +14,14 @@
     <item>
       <title>Libro Ingles</title>
       <link>http://vidaeficiente.es/en/blog/libro/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>http://vidaeficiente.es/en/blog/libro/</guid>
       <description>ese peaso libro en INGLES</description>
     </item>
     
     <item>
-      <title>Guide de syntaxe de Markdown</title>
-      <link>http://vidaeficiente.es/en/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://vidaeficiente.es/en/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contenu riche</title>
+      <title>Rich Content</title>
       <link>http://vidaeficiente.es/en/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -39,7 +30,7 @@
     </item>
     
     <item>
-      <title>About</title>
+      <title>About me &amp; the blog</title>
       <link>http://vidaeficiente.es/en/about/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
@@ -51,12 +42,12 @@ Hugo makes use of a variety of open source projects including:
     
     <item>
       <title>Books</title>
-      <link>http://vidaeficiente.es/en/books/books/</link>
+      <link>http://vidaeficiente.es/en/books/booklist/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://vidaeficiente.es/en/books/books/</guid>
-      <description>INGLES
-GitHub.
+      <guid>http://vidaeficiente.es/en/books/booklist/</guid>
+      <description>Listado de libros en ingles
+Book 1.
 Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:</description>
     </item>

@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://vidaeficiente.es/en/blog/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -18,23 +18,13 @@
   </url>
   
   <url>
-    <loc>http://vidaeficiente.es/en/tags/emoji/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/tags/emoji/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/tags/emoji/"
-                />
+    <loc>http://vidaeficiente.es/en/tags/books/</loc>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://vidaeficiente.es/en/blog/libro/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -49,7 +39,7 @@
   
   <url>
     <loc>http://vidaeficiente.es/en/tags/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-05T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -59,141 +49,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://vidaeficiente.es/en/tags/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/en/categories/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/categories/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/en/tags/css/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/tags/css/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/tags/css/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/en/blog/markdown-syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/blog/markdown-syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/blog/markdown-syntax/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/en/tags/html/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/tags/html/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/tags/html/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/en/tags/markdown/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/tags/markdown/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/tags/markdown/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/en/categories/syntax/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/categories/syntax/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/categories/syntax/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/en/tags/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/tags/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/tags/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/en/categories/themes/</loc>
-    <lastmod>2019-03-11T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/categories/themes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/categories/themes/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/en/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/blog/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/blog/rich-content/"
                 />
   </url>
   
@@ -209,6 +64,21 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://vidaeficiente.es/en/tags/privacy/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://vidaeficiente.es/en/blog/rich-content/</loc>
+    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://vidaeficiente.es/blog/rich-content/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://vidaeficiente.es/en/blog/rich-content/"
                 />
   </url>
   
@@ -258,17 +128,17 @@
   </url>
   
   <url>
-    <loc>http://vidaeficiente.es/en/books/books/</loc>
+    <loc>http://vidaeficiente.es/en/books/booklist/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://vidaeficiente.es/books/books/"
+                href="http://vidaeficiente.es/books/booklist/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://vidaeficiente.es/en/books/books/"
+                href="http://vidaeficiente.es/en/books/booklist/"
                 />
   </url>
   
@@ -284,6 +154,20 @@
                 rel="alternate"
                 hreflang="en"
                 href="http://vidaeficiente.es/en/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://vidaeficiente.es/en/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://vidaeficiente.es/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://vidaeficiente.es/en/categories/"
                 />
   </url>
   

@@ -13,12 +13,12 @@
     
     <item>
       <title>Books</title>
-      <link>http://vidaeficiente.es/en/books/books/</link>
+      <link>http://vidaeficiente.es/en/books/booklist/</link>
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
-      <guid>http://vidaeficiente.es/en/books/books/</guid>
-      <description>INGLES
-GitHub.
+      <guid>http://vidaeficiente.es/en/books/booklist/</guid>
+      <description>Listado de libros en ingles
+Book 1.
 Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
 Hugo makes use of a variety of open source projects including:</description>
     </item>

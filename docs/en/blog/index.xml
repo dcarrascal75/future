@@ -6,7 +6,7 @@
     <description>Recent content in Blog on VidaEficiente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vidaeficiente.es/en/blog/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,23 +14,14 @@
     <item>
       <title>Libro Ingles</title>
       <link>http://vidaeficiente.es/en/blog/libro/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>http://vidaeficiente.es/en/blog/libro/</guid>
       <description>ese peaso libro en INGLES</description>
     </item>
     
     <item>
-      <title>Guide de syntaxe de Markdown</title>
-      <link>http://vidaeficiente.es/en/blog/markdown-syntax/</link>
-      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://vidaeficiente.es/en/blog/markdown-syntax/</guid>
-      <description>&lt;p&gt;Cet article propose un exemple de syntaxe de base de Markdown pouvant être utilisée dans les fichiers de contenu Hugo. Il indique également si les éléments HTML de base sont décorés avec CSS dans un thème Hugo.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Contenu riche</title>
+      <title>Rich Content</title>
       <link>http://vidaeficiente.es/en/blog/rich-content/</link>
       <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
       
