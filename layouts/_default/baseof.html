@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="{{ .Page.Language | default "en" }}">
+  {{ partial "head" . }}
+  <body>
+    {{ partial "site-header" . }}
+
+    {{ if not (.Params.isFullPage) }}
+      <div id="wrapper">
+          {{ partial "site-intro" . }}
+          <main id="site-main">
+            <!-- bloque intro solo en Home-->
+            {{ if .IsHome }}
+               {{ partial "site-introduction" . }}
+            {{ end }}
+            {{ block "main" . }}{{ end }}
+          </main>
+          {{ partial "site-sidebar" . }}
+          {{ partial "site-footer" . }}
+          {{ partial "scripts" . }}
+     </div>
+    {{ else }}
+       {{ block "main" . }}{{ end }}
+       {{ partial "site-footer" . }}
+       {{ partial "scripts" . }}
+    {{ end }}
+    
+  </body>
+</html>

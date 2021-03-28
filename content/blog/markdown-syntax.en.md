@@ -1,8 +1,10 @@
 +++
-title = "Guide de syntaxe de Markdown"
+draft= true
+title = "Markdown Guide"
 description = "Exemple d'article présentant la syntaxe et le formatage de base de Markdown pour les éléments HTML."
 author = "Hugo Auteurs"
 date = "2019-03-11"
+isFullPage = "true"
 tags = ["markdown", "css", "html", "themes"]
 categories = ["themes", "syntax"]
 [[images]]

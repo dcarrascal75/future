@@ -31,8 +31,8 @@ disableLanguages        = []
   hideEmptyStats        = false
 
   [params.meta]
-    description         = "Un diario... sobre el viaje hacia un mejor lugar"
-    author              = "El Viajero"
+    description         = "Un diario sobre el viaje hacia un mejor yo"
+    author              = "David"
     favicon             = false
     svg                 = true
     faviconVersion      = "1"
@@ -40,7 +40,7 @@ disableLanguages        = []
     iOSColor            = "#ffffff"
 
   [params.meta.en]
-    description         = "trabvelling"
+    description         = "travelling"
 
 
   [params.header]
@@ -52,21 +52,22 @@ disableLanguages        = []
 
   [params.intro]
     header                = "VidaEficiente"
-    paragraph             = "Un diario.... sobre el viaje hacia un mejor lugar"
+    paragraph             = "Un diario sobre el viaje hacia un mejor yo"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = false
 
   [params.intro.pic]
-      src                 = "img/main/logo.jpg"
+      src                 = "img/main/logo.png"
       shape               = "circle"
-      width               = ""
-      alt                 = "El Viajero"
+      width               = "155"
+      alt                 = "David"
 
   #About lateral. configurar.
   [params.sidebar]
-    about               = "This theme was developed for Hugo static site generator."
+    minibio             = false
+    about               = "En este blog comparto, a modo de diario personal, los recursos, trucos y tips que realmente me han funcionado para generar buenos hábitos y hacerme más eficiente"
     postAmount          = 5
     categories          = true
     categoriesByCount   = true
@@ -86,6 +87,7 @@ disableLanguages        = []
 
 ## Esto es para habilitar los comentarios con staticman.
 ## Leer https://themes.gohugo.io/hugo-future-imperfect-slim/
+## De momento usamos Disqus
 
   [params.staticman]
     enabled             = false
@@ -128,22 +130,28 @@ disableLanguages        = []
     identifier        = "categories"
     url               = "/categories/"
     pre               = "<i class='fas fa-sitemap'></i>"
+    weight            = 4
+
+  [[menu.main]]
+    name              = "Tags"
+    identifier        = "tags"
+    url               = "/tags/"
+    pre               = "<i class='fas fa-tags'></i>"
     weight            = 5
 
   [[menu.main]]
     name              = "Libros"
     identifier        = "books"
-    url               = "/books/"
-    pre               = "<i class='fas fa-book'></i>"
+    url               = "/books/booklist"
+    pre               = "<i class='fas fa-book-reader'></i>"
     weight            = 6
 
-  [[menu.main]]
-    name              = "Contacto"
-    identifier        = "contact"
-    url               = "/contact/"
-    pre               = "<i class='far fa-envelope'></i>"
-    weight            = 7
-  
+#  [[menu.main]]
+#    name              = "Contacto"
+#    identifier        = "contact"
+#    url               = "/contact/"
+#    pre               = "<i class='far fa-envelope'></i>"
+#    weight            = 7
 
 
 [Languages]
@@ -157,23 +165,33 @@ disableLanguages        = []
     LanguageCode        = "en"
     LanguageName        = "English"
     title               = "VidaEficiente"
-    description         = "Daily notes about a travel to a better place"
+    description         = "A journal about the travel to a better me"
+    about               = "Sobre mí"
     weight              = 2
 
 
   [Languages.en.params.intro]
     header                = "VidaEficiente"
-    paragraph             = "Daily notes about a travel to a better place"
+    paragraph             = "A journal about the travel to a better me"
+    about                 = "About me"
     rssIntro              = true
     socialIntro           = true
     hideWhenSingleColumn  = false
     alwaysOnHomepage      = false
 
   [Languages.en.params.intro.pic]
-      src                 = "img/main/logo.jpg"
+      src                 = "img/main/logo.png"
       shape               = "circle"
-      width               = ""
-      alt                 = "The Traveller"
+      width               = "155"
+      alt                 = "David"
+
+  [Languages.en.params.sidebar]
+    minibio             = false
+    about               = "In this blog I share those tricks, tips and resources that have really helped me in order to generate better habits and become more efficient."
+    postAmount          = 5
+    categories          = true
+    categoriesByCount   = true
+
 
 
     [[Languages.en.menu.main]]
@@ -202,21 +220,28 @@ disableLanguages        = []
       identifier        = "categories"
       url               = "/categories/"
       pre               = "<i class='fas fa-sitemap'></i>"
+      weight            = 4
+
+    [[Languages.en.menu.main]]
+      name              = "Tags"
+      identifier        = "tags"
+      url               = "/tags/"
+      pre               = "<i class='fas fa-tags'></i>"
       weight            = 5
 
     [[Languages.en.menu.main]]
       name              = "Books"
       identifier        = "books"
-      url               = "/books/"
+      url               = "/books/booklist"
       pre               = "<i class='fas fa-book-reader'></i>"
       weight            = 6
 
-    [[Languages.en.menu.main]]
-      name              = "Contact"
-      identifier        = "contact"
-      url               = "/contact/"
-      pre               = "<i class='far fa-envelope'></i>"
-      weight            = 7
+#    [[Languages.en.menu.main]]
+#      name              = "Contact"
+#      identifier        = "contact"
+#      url               = "/contact/"
+#      pre               = "<i class='far fa-envelope'></i>"
+#      weight            = 7
 
 
 
@@ -259,7 +284,7 @@ disableLanguages        = []
     qq                  = "" # User ID Number
   instagram             = ""
   tumblr                = ""
-  twitter               = "example"
+  twitter               = "@vidaeficiente"
   strava                = ""
   skype                 = ""
   snapchat              = ""
@@ -273,4 +298,4 @@ disableLanguages        = []
   mastodon              = ""
 
   # Email
-  email                 = "example"
+  email                 = "vidaeficiente.es@gmail.com"

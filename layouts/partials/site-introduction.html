@@ -1,0 +1,10 @@
+<section id="mini-bio" class="minibio">
+    <div class="widthtitle">
+     
+      <p> {{ .Site.Params.sidebar.about | safeHTML }}</p>
+    </div>
+    
+    <footer>
+      <a href="{{ "about" | relLangURL }}" class="button">{{ i18n "learn_more" }}</a>
+    </footer>
+  </section>

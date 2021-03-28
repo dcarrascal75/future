@@ -1,8 +1,9 @@
 +++
-title = "Rich Content"
+title = "Contenido enriquecido"
 description = "A brief description of Hugo Shortcodes"
 author = "Hugo Authors"
 date = "2019-03-10"
+isFullPage = "true"
 tags = ["shortcodes", "privacy"]
 [[images]]
   src = "img/main/logo.jpg"

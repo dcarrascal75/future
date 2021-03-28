@@ -431,6 +431,84 @@ figcaption {
       margin: 1em auto;
       width: 100%; }
 
+.minibio {
+  background: whitesmoke;
+  margin: 1.5em auto;
+  padding: 1em;
+  max-width: 55em; }
+  .minibio > header {
+    border-bottom: 1px solid rgba(161, 161, 161, 0.3);
+    margin: -1em -1em 0 -1em;
+    text-align: center;
+    -ms-word-break: break-word;
+    word-break: break-word; }
+    @media (min-width: 768px) {
+      .minibio > header {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        justify-content: space-between;
+        text-align: left; } }
+    .minibio > header div {
+      padding-bottom: 1em; }
+      @media (min-width: 768px) {
+        .minibio > header div {
+          padding: 1.5em; } }
+    .minibio > header p {
+      margin: -1em 0 0 0; }
+  .minibio > div > p,
+  .minibio > p {
+    text-align: justify; }
+  .minibio footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column; }
+    .minibio footer .button {
+      margin: 1em auto;
+      width: 100%; }
+
+.fullpost {
+  background: white;
+  margin: 1.5em auto;
+  padding: 1em;
+  max-width: 85em; }
+  .fullpost > header {
+    border-bottom: 1px solid rgba(161, 161, 161, 0.3);
+    margin: -1em -1em 0 -1em;
+    text-align: center;
+    -ms-word-break: break-word;
+    word-break: break-word; }
+    @media (min-width: 768px) {
+      .fullpost > header {
+        display: -webkit-box;
+        display: -ms-flexbox;
+        display: -webkit-flex;
+        display: flex;
+        justify-content: space-between;
+        text-align: left; } }
+    .fullpost > header div {
+      padding-bottom: 1em; }
+      @media (min-width: 768px) {
+        .fullpost > header div {
+          padding: 1.5em; } }
+    .fullpost > header p {
+      margin: -1em 0 0 0; }
+  .fullpost > div > p,
+  .fullpost > p {
+    text-align: justify; }
+  .fullpost footer {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: -webkit-flex;
+    display: flex;
+    flex-direction: column; }
+    .fullpost footer .button {
+      margin: 1em auto;
+      width: 100%; }
+
 .image {
   border: 0;
   display: grid;
@@ -475,6 +553,12 @@ figcaption {
   @media (min-width: 768px) {
     .title {
       width: 75%; } }
+.widthtitle {
+  font-size: 1.1em;
+  width: 100%; }
+  @media (min-width: 768px) {
+    .widthtitle {
+      width: 100%; } }
 .meta {
   display: -webkit-box;
   display: -ms-flexbox;

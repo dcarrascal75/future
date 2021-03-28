@@ -1,9 +1,11 @@
 +++
-title = "Markdown Syntax Guide"
+draft= true
+title = "Guia de Marcado"
 description = "Sample article showcasing basic Markdown syntax and formatting for HTML elements."
 author = "Hugo Authors"
 date = "2019-03-11"
-tags = ["markdown", "css", "html", "themes"]
+isFullPage = "true"
+tags = ["marcado", "css", "html", "themes"]
 categories = ["themes", "syntax"]
 [[images]]
   src = "img/2019/03/pic01.jpg"

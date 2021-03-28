@@ -2,8 +2,9 @@
 title = "Libro Ingles"
 description = "Guide to emoji usage in Hugo"
 author = "Hugo Authors"
-date = "2020-03-05"
-tags = ["emoji"]
+date = "2021-03-05"
+isFullPage = "true"
+tags = ["books"]
 [[images]]
   src = "img/2019/03/pic02.jpg"
   alt = "Desert Scene"
