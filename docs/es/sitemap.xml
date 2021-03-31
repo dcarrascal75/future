@@ -4,7 +4,7 @@
   
   <url>
     <loc>http://vidaeficiente.es/blog/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -18,28 +18,53 @@
   </url>
   
   <url>
-    <loc>http://vidaeficiente.es/blog/libro/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+    <loc>http://vidaeficiente.es/categories/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://vidaeficiente.es/en/blog/libro/"
+                href="http://vidaeficiente.es/en/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://vidaeficiente.es/blog/libro/"
+                href="http://vidaeficiente.es/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://vidaeficiente.es/tags/libros/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+    <loc>http://vidaeficiente.es/tags/disciplina/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vidaeficiente.es/blog/jineteyelefante/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://vidaeficiente.es/en/blog/jineteyelefante/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://vidaeficiente.es/blog/jineteyelefante/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://vidaeficiente.es/categories/mente/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vidaeficiente.es/tags/motivaci%C3%B3n/</loc>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
   </url>
   
   <url>
     <loc>http://vidaeficiente.es/tags/</loc>
-    <lastmod>2020-03-05T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
@@ -83,51 +108,6 @@
   </url>
   
   <url>
-    <loc>http://vidaeficiente.es/blog/rich-content/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/blog/rich-content/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/blog/rich-content/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/tags/privacy/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/tags/privacy/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/tags/privacy/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/tags/shortcodes/</loc>
-    <lastmod>2019-03-10T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/tags/shortcodes/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/tags/shortcodes/"
-                />
-  </url>
-  
-  <url>
     <loc>http://vidaeficiente.es/books/</loc>
     <lastmod>2019-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -154,20 +134,6 @@
                 rel="alternate"
                 hreflang="es"
                 href="http://vidaeficiente.es/books/booklist/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/categories/"
                 />
   </url>
   

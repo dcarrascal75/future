@@ -1,10 +1,11 @@
 +++
+draft= true
 title = "Rich Content"
 description = "Une brève description de Hugo Shortcodes"
 author = "Hugo Auteurs"
 date = "2019-03-10"
 isFullPage = "true"
-tags = ["shortcodes", "privacy"]
+tags = ["shortcodes", "privacy", "content"]
 [[images]]
   src = "img/main/logo.jpg"
   alt = "Fox"

@@ -630,11 +630,13 @@ figcaption {
     }
     p {
       margin: -1em 0 0 0;
+      font-size:110%
     }
   }
   > div > p,
   > p {
     text-align: justify;
+    font-size:110%
   }
   footer {
     @include display-flex;
@@ -691,7 +693,7 @@ figcaption {
   background:	$white;
   margin: 1.5em auto;
   padding: 1em;
-  max-width: 85em;
+  max-width: 75em;
   > header {
     border-bottom: $primary-border;
     margin: -1em -1em 0 -1em;
@@ -710,11 +712,15 @@ figcaption {
     }
     p {
       margin: -1em 0 0 0;
+      color: black;
+      font-size:110%
     }
   }
   > div > p,
   > p {
     text-align: justify;
+    color: black;
+    font-size:110%
   }
   footer {
     @include display-flex;
@@ -775,7 +781,7 @@ figcaption {
 }
 
 .widthtitle {
-  font-size: 1.1em;
+  font-size: 1.2em;
   width: 100%;
   @include for-laptop-up {
     width: 100%;
@@ -1398,7 +1404,7 @@ figcaption {
 
 #mini-bio {
   p {
-    opacity: 0.65;
+    opacity: 1;
     font-size: 0.9em;
     padding: 0;
   }

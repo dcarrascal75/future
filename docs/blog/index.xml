@@ -6,27 +6,19 @@
     <description>Recent content in Blog on VidaEficiente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Thu, 05 Mar 2020 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vidaeficiente.es/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Libro Frances</title>
-      <link>http://vidaeficiente.es/blog/libro/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <title>El Jinete y el Elefante</title>
+      <link>http://vidaeficiente.es/blog/jineteyelefante/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://vidaeficiente.es/blog/libro/</guid>
-      <description>ese peaso libro en FRANCES</description>
-    </item>
-    
-    <item>
-      <title>Contenido enriquecido</title>
-      <link>http://vidaeficiente.es/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://vidaeficiente.es/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <guid>http://vidaeficiente.es/blog/jineteyelefante/</guid>
+      <description>&lt;p&gt;El motivo de que haya tomado la imagen de un hombre a lomos de un elefante como logo para este blog no es algo casual.
+Cuando leí esta analogía por primera vez me pareció una comparación que, además de sencilla, era bastante útil para explicar y afrontar ciertas situaciones cotidianas.&lt;/p&gt;</description>
     </item>
     
   </channel>

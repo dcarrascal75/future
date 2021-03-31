@@ -33,7 +33,7 @@ disableLanguages        = []
   [params.meta]
     description         = "Un diario sobre el viaje hacia un mejor yo"
     author              = "David"
-    favicon             = false
+    favicon             = true
     svg                 = true
     faviconVersion      = "1"
     msColor             = "#ffffff"
@@ -165,14 +165,14 @@ disableLanguages        = []
     LanguageCode        = "en"
     LanguageName        = "English"
     title               = "VidaEficiente"
-    description         = "A journal about the travel to a better me"
+    description         = "A journal about the journey to a better me"
     about               = "Sobre mí"
     weight              = 2
 
 
   [Languages.en.params.intro]
     header                = "VidaEficiente"
-    paragraph             = "A journal about the travel to a better me"
+    paragraph             = "A journal about the journey to a better me"
     about                 = "About me"
     rssIntro              = true
     socialIntro           = true

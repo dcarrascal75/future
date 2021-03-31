@@ -4,6 +4,7 @@ description = "Hugo, the world’s fastest framework for building websites"
 author = "Hugo Authors"
 date = "2019-02-28"
 layout = "books"
+socialsharing = true
 +++
 
 Listado de libros en ingles

@@ -6,27 +6,19 @@
     <description>Recent content in Blog on VidaEficiente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 05 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vidaeficiente.es/en/blog/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Libro Ingles</title>
-      <link>http://vidaeficiente.es/en/blog/libro/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      <title>The Rider and the Elephant</title>
+      <link>http://vidaeficiente.es/en/blog/jineteyelefante/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://vidaeficiente.es/en/blog/libro/</guid>
-      <description>ese peaso libro en INGLES</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>http://vidaeficiente.es/en/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://vidaeficiente.es/en/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo est livré avec plusieurs [Shortcodes intégrés] (&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&lt;/a&gt;) pour un contenu riche, ainsi qu&amp;rsquo;une [Privacy Config] ( &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;https://gohugo.io/about/hugo-and-gdpr/&lt;/a&gt;) et un ensemble de codes courts simples qui permettent des versions statiques et sans JS de diverses intégrations de médias sociaux.&lt;/p&gt;</description>
+      <guid>http://vidaeficiente.es/en/blog/jineteyelefante/</guid>
+      <description>The reason why I&amp;rsquo;ve chosen the image of a man on the back of an elephant as the logo for this blog is not something accidental. When I read this analogy for the first time, it seemed like a comparison that, in addition to being simple, was quite useful for explaining and dealing with certain everyday situations. &amp;lt;! - more -&amp;gt;
+It was in the book &amp;ldquo;Superpowers for normal people&amp;rdquo; by Mago More, (who in turn extracted it from another author).</description>
     </item>
     
   </channel>

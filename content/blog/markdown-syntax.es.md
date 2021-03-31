@@ -8,7 +8,7 @@ isFullPage = "true"
 tags = ["marcado", "css", "html", "themes"]
 categories = ["themes", "syntax"]
 [[images]]
-  src = "img/2019/03/pic01.jpg"
+  src = "img/2021/pic02.jpg"
   alt = "Mountain Range Through Clouds"
   stretch = "horizontal"
 [[images]]

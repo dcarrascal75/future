@@ -7,35 +7,10 @@
       </div>
     </header>
       <div id="content">
-        {{ .Content }}
-        <div class="contact-container">
-          {{ if .Params.netlify }}
-            <form name="contact" method="POST" action="thank-you" data-netlify-recaptcha="true" data-netlify="true" center width="300px">
-          {{ else }}
-            <form id="contact" action="{{ .Params.emailService }}" method="post" center width="300px">
-          {{ end }}
-          <h4>{{ i18n "contact_replies" .Params.contactanswertime }}</h4>
-          <fieldset>
-            <input placeholder="{{ i18n "form_name" }}" type="text" name="name" tabindex="1" required autofocus>
-          </fieldset>
-          <fieldset>
-            <input placeholder="{{ i18n "form_email" }}" type="email" name="_replyto" tabindex="2" required>
-          </fieldset>
-          <fieldset>
-            <input placeholder="{{ i18n "form_subject" }}" type="text" name="_subject" tabindex="3" required>
-          </fieldset>
-          <fieldset>
-            <textarea placeholder="{{ i18n "form_body" }}" type="text" name="message" tabindex="4" required></textarea>
-          </fieldset>
-          <fieldset>
-            <input type="hidden" name="_language" value="{{ .Lang }}">
-          </fieldset>
-          <fieldset>
-            <div data-netlify-recaptcha="true"></div>
-            <button name="submit" class="button" type="submit" id="contact-submit" tabindex="5">{{ i18n "submit" }}</button>
-          </fieldset>
-        </form>
-      </div>
+        <p style="text-align: justify;">Si quieres contactar conmigo para cualquier asunto, ya sean sugerencias, propuestas u ofensas, puedes hacerlo a través la siguiente dirección:</p>
+          <blockquote><p><a href="mailto:vidaeficiente.es@gmail.com">vidaeficiente.es@gmail.com</a></p></blockquote>
+          <p style="text-align: justify;">... y muchas gracias por pasarte por aquí !!</p>
+
     </div>
   </article>
 {{ end }}

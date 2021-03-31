@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>motivación on VidaEficiente</title>
+    <link>http://vidaeficiente.es/tags/motivaci%C3%B3n/</link>
+    <description>Recent content in motivación on VidaEficiente</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://vidaeficiente.es/tags/motivaci%C3%B3n/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>El Jinete y el Elefante</title>
+      <link>http://vidaeficiente.es/blog/jineteyelefante/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidaeficiente.es/blog/jineteyelefante/</guid>
+      <description>&lt;p&gt;El motivo de que haya tomado la imagen de un hombre a lomos de un elefante como logo para este blog no es algo casual.
+Cuando leí esta analogía por primera vez me pareció una comparación que, además de sencilla, era bastante útil para explicar y afrontar ciertas situaciones cotidianas.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

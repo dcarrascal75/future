@@ -4,7 +4,7 @@
     {{ with .Site.Params.intro.header }}<h1>{{ . | safeHTML }}</h1>{{ end }}
   </header>
   <main>
-    {{ with .Site.Params.intro.paragraph }}<p>{{ . | safeHTML }}</p>{{ end }}
+    {{ with .Site.Params.intro.paragraph }}<p><b>{{ . | safeHTML }}</b></p>{{ end }}
   </main>
   {{ if or (.Site.Params.intro.rssIntro) (.Site.Params.intro.socialIntro) }}
     <footer>

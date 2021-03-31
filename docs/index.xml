@@ -12,12 +12,13 @@
     
     
     <item>
-      <title>Libro Frances</title>
-      <link>http://vidaeficiente.es/blog/libro/</link>
-      <pubDate>Thu, 05 Mar 2020 00:00:00 +0000</pubDate>
+      <title>El Jinete y el Elefante</title>
+      <link>http://vidaeficiente.es/blog/jineteyelefante/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://vidaeficiente.es/blog/libro/</guid>
-      <description>ese peaso libro en FRANCES</description>
+      <guid>http://vidaeficiente.es/blog/jineteyelefante/</guid>
+      <description>&lt;p&gt;El motivo de que haya tomado la imagen de un hombre a lomos de un elefante como logo para este blog no es algo casual.
+Cuando leí esta analogía por primera vez me pareció una comparación que, además de sencilla, era bastante útil para explicar y afrontar ciertas situaciones cotidianas.&lt;/p&gt;</description>
     </item>
     
     <item>
@@ -26,16 +27,9 @@
       <pubDate>Fri, 28 Feb 2020 00:00:00 +0000</pubDate>
       
       <guid>http://vidaeficiente.es/about/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Contenido enriquecido</title>
-      <link>http://vidaeficiente.es/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://vidaeficiente.es/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;</description>
+      <description>Bienvenido.
+Soy David, un tío bastante normal, en mis 40&amp;rsquo;s, con dos hijos, ya sin hipoteca&amp;hellip; y como mucha gente, buscando cómo sacarle partido al tiempo y al esfuerzo.
+Vivo en un piso pequeño. Tanto mi pareja como yo tenemos un trabajo normal; estoy muy lejos de eso que algunos llaman &amp;ldquo;independencia financiera&amp;rdquo;. Mis hijos y el hogar consumen gran parte de mi tiempo. Por eso pienso que mis experiencias pueden servir a la mayoría de la gente, que seguramente estén en situaciones muy similares.</description>
     </item>
     
     <item>

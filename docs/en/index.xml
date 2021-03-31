@@ -12,21 +12,13 @@
     
     
     <item>
-      <title>Libro Ingles</title>
-      <link>http://vidaeficiente.es/en/blog/libro/</link>
-      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      <title>The Rider and the Elephant</title>
+      <link>http://vidaeficiente.es/en/blog/jineteyelefante/</link>
+      <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://vidaeficiente.es/en/blog/libro/</guid>
-      <description>ese peaso libro en INGLES</description>
-    </item>
-    
-    <item>
-      <title>Rich Content</title>
-      <link>http://vidaeficiente.es/en/blog/rich-content/</link>
-      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://vidaeficiente.es/en/blog/rich-content/</guid>
-      <description>&lt;p&gt;Hugo est livré avec plusieurs [Shortcodes intégrés] (&lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&lt;/a&gt;) pour un contenu riche, ainsi qu&amp;rsquo;une [Privacy Config] ( &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;https://gohugo.io/about/hugo-and-gdpr/&lt;/a&gt;) et un ensemble de codes courts simples qui permettent des versions statiques et sans JS de diverses intégrations de médias sociaux.&lt;/p&gt;</description>
+      <guid>http://vidaeficiente.es/en/blog/jineteyelefante/</guid>
+      <description>The reason why I&amp;rsquo;ve chosen the image of a man on the back of an elephant as the logo for this blog is not something accidental. When I read this analogy for the first time, it seemed like a comparison that, in addition to being simple, was quite useful for explaining and dealing with certain everyday situations. &amp;lt;! - more -&amp;gt;
+It was in the book &amp;ldquo;Superpowers for normal people&amp;rdquo; by Mago More, (who in turn extracted it from another author).</description>
     </item>
     
     <item>
@@ -35,9 +27,8 @@
       <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
       
       <guid>http://vidaeficiente.es/en/about/</guid>
-      <description>Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:
- https://github.</description>
+      <description>I&amp;rsquo;m David, a normal guy, in my 40s, father of two, paid mortgage &amp;hellip; and as many people, looking for tips to take advantage of my time and effort.
+I live in a small flat. Both my partner and I have a normal job: I&amp;rsquo;m a long way from what they call &amp;ldquo;Financial Independence&amp;rdquo;&amp;hellip; My children and home consume much of my time. That is why I think my experiences can serve most people that probably are in the more or less same situation.</description>
     </item>
     
     <item>
