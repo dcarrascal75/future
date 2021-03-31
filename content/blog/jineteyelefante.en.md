@@ -12,6 +12,7 @@ tags = ["motivation", "discipline"]
   stretch = "vertical"
 
 +++
+
 The reason why I've chosen the image of a man on the back of an elephant as the logo for this blog is not something accidental.
 When I read this analogy for the first time, it seemed like a comparison that, in addition to being simple, was quite useful for explaining and dealing with certain everyday situations.
 <!--more-->
