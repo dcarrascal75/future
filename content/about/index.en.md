@@ -9,7 +9,7 @@ pagination = false
 
 I'm David, a normal guy, in my 40s, father of two, paid mortgage ... and as many people, looking for tips to take advantage of my time and effort.
 
-I live in a small flat. Both my partner and I have a normal job: I'm a long way from what they call "Financial Independence"... My children and home consume much of my time. That is why I think my experiences can serve most people that probably are in the more or less same situation.
+I live in a small flat. Both my partner and I have a normal job: I'm a long way from what they call "Financial Independence"... My children and home consume much of my time. That is why I think my experiences can serve most people that probably are more or less on same situation.
 
 I have been interested in personal development for a long time, but again and again, I find myself at the same starting point. I try to create good habits, but the New Year's List is always pretty similar. It seems that my approach has not been the correct one.
 
