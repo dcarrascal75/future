@@ -6,10 +6,28 @@
     <description>Recent content in Categories on VidaEficiente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es</language>
-    <lastBuildDate>Wed, 31 Mar 2021 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vidaeficiente.es/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>libros</title>
+      <link>http://vidaeficiente.es/categories/libros/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidaeficiente.es/categories/libros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>habitos</title>
+      <link>http://vidaeficiente.es/categories/habitos/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidaeficiente.es/categories/habitos/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>mente</title>

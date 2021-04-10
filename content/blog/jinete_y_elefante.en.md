@@ -3,6 +3,7 @@ title = "The Rider and the Elephant"
 description = ""
 author = "David"
 date = "2021-03-31"
+fecha= "31 March 2021"
 isFullPage = "true"
 categories = ["mind"]
 tags = ["motivation", "discipline"]
@@ -15,7 +16,6 @@ tags = ["motivation", "discipline"]
 
 The reason why I've chosen the image of a man on the back of an elephant as the logo for this blog is not something accidental.
 When I read this analogy for the first time, it seemed like a comparison that, in addition to being simple, was quite useful for explaining and dealing with certain everyday situations.
-<!--more-->
 
 It was in the book "Superpowers for normal people" by Mago More, (who in turn extracted it from another author). I'll talk more about this book by More in another post, because it really deserves it. Now I am going to tell what teaching underlies the story of the elephant and its rider.
 

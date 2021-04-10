@@ -6,7 +6,7 @@
     <description>Recent content in Books on VidaEficiente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Mar 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vidaeficiente.es/en/books/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,13 +14,11 @@
     <item>
       <title>Books</title>
       <link>http://vidaeficiente.es/en/books/booklist/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>http://vidaeficiente.es/en/books/booklist/</guid>
-      <description>Listado de libros en ingles
-Book 1.
-Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:</description>
+      <description>This is the list of books I reccomend to read, and a brief overview. (I&amp;rsquo;ll list here the English edition when available)
+(Still working on it&amp;hellip;I&amp;rsquo;ll add stuff very soon)</description>
     </item>
     
   </channel>

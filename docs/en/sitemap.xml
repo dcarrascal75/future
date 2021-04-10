@@ -63,38 +63,23 @@
   </url>
   
   <url>
-    <loc>http://vidaeficiente.es/en/blog/jineteyelefante/</loc>
+    <loc>http://vidaeficiente.es/en/blog/jinete_y_elefante/</loc>
     <lastmod>2021-03-31T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
-                href="http://vidaeficiente.es/blog/jineteyelefante/"
+                href="http://vidaeficiente.es/blog/jinete_y_elefante/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://vidaeficiente.es/en/blog/jineteyelefante/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://vidaeficiente.es/en/about/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="es"
-                href="http://vidaeficiente.es/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://vidaeficiente.es/en/about/"
+                href="http://vidaeficiente.es/en/blog/jinete_y_elefante/"
                 />
   </url>
   
   <url>
     <loc>http://vidaeficiente.es/en/books/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -109,7 +94,7 @@
   
   <url>
     <loc>http://vidaeficiente.es/en/books/booklist/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"
@@ -123,8 +108,33 @@
   </url>
   
   <url>
+    <loc>http://vidaeficiente.es/en/tags/books/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vidaeficiente.es/en/categories/books/</loc>
+    <lastmod>2021-03-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://vidaeficiente.es/en/about/</loc>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="es"
+                href="http://vidaeficiente.es/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://vidaeficiente.es/en/about/"
+                />
+  </url>
+  
+  <url>
     <loc>http://vidaeficiente.es/en/</loc>
-    <lastmod>2019-02-28T00:00:00+00:00</lastmod>
+    <lastmod>2021-02-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="es"

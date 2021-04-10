@@ -1,8 +1,9 @@
 +++
 title = "About me & the blog"
-description = "About description"
+description = "Who and why..."
 author = "David"
-date = "2019-02-28"
+date = "2021-02-28"
+fecha= "28 February 2021"
 layout = "about me"
 pagination = false
 +++

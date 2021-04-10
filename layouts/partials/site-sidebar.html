@@ -9,7 +9,10 @@
           {{ .Render "featured" }}
         <header>
           <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-          <time class="published" datetime="{{ .Date }}">{{ .Render "date" }}</time>
+          <!-- el Render no funciona bien con las fechas en español, asi que uso "date" 
+            para ordenar y "fecha" para mostrar -->
+          <!-- time class="published" datetime="{{ .Date }}">{{ .Render "date" }}</time -->
+          <time class="published" datetime="{{ .Date }}">{{ .Params.fecha }}</time>
         </header>
       </article>
       {{ end }}

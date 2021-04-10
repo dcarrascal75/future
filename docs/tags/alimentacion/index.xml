@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>alimentacion on VidaEficiente</title>
+    <link>http://vidaeficiente.es/tags/alimentacion/</link>
+    <description>Recent content in alimentacion on VidaEficiente</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Thu, 01 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://vidaeficiente.es/tags/alimentacion/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Eso del ayuno intermitente...</title>
+      <link>http://vidaeficiente.es/blog/ayuno_intermitente/</link>
+      <pubDate>Thu, 01 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidaeficiente.es/blog/ayuno_intermitente/</guid>
+      <description>Recientemente vengo escuchando hablar mucho sobre el ayuno intermitente. Parece ser una de las muchas &amp;quot; nuevas&amp;rdquo; formas de cuidarse que se están poniendo de moda últimamente, aunque sean más viejas que el hilo negro.
+Consiste básicamente en espaciar las comidas lo suficiente como para dejar que el organismo descanse y procese todos aquellos productos de desecho que habitualmente no podemos limpiar debido a que nuestro cuerpo está ocupado con la digestión .</description>
+    </item>
+    
+  </channel>
+</rss>

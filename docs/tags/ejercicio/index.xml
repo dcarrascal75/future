@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ejercicio on VidaEficiente</title>
+    <link>http://vidaeficiente.es/tags/ejercicio/</link>
+    <description>Recent content in ejercicio on VidaEficiente</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Mon, 05 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://vidaeficiente.es/tags/ejercicio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Desempolvando las zapatillas</title>
+      <link>http://vidaeficiente.es/blog/volver_a_correr/</link>
+      <pubDate>Mon, 05 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidaeficiente.es/blog/volver_a_correr/</guid>
+      <description>Me he abandonado mucho. Con la pandemia perdí totalmente el hábito de correr, que era algo que realmente me gustaba. Antes del confinamiento solía salir con algo de regularidad; no es que fuera Usain Bolt pero me hacía mis 8-10 km tranquilamente un par de veces a la semana. Actualmente peso algo más de 100 kg, he echado tripa y he perdido mucha forma.
+Esta es una de las cosas que quiero retomar.</description>
+    </item>
+    
+  </channel>
+</rss>

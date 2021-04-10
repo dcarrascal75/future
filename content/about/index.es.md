@@ -1,15 +1,16 @@
 +++
 title = "Sobre mí y el blog"
-description = "Descripcion de about"
+description = "Quién y por qué..."
 author = "David"
 date = "2020-02-28"
+fecha= "28 Febrero 2021"
 layout = "Sobre mí"
 pagination = false
 +++
 
 Bienvenido.
 
-Soy David, un tío bastante normal, en mis 40's, con dos hijos, ya sin hipoteca... y como mucha gente, buscando cómo sacarle partido al tiempo y al esfuerzo.
+Soy David, un tío bastante normal, en mis 40's, con dos hijos, ya por fn sin hipoteca... y como mucha gente, buscando cómo sacarle partido al tiempo y al esfuerzo.
 
 Vivo en un piso pequeño. Tanto mi pareja como yo tenemos un trabajo normal; estoy muy lejos de eso que algunos llaman "independencia financiera". Mis hijos y el hogar consumen gran parte de mi tiempo. Por eso pienso que mis experiencias pueden servir a la mayoría de la gente, que seguramente estén en situaciones muy similares.
 

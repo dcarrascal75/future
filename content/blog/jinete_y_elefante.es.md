@@ -3,6 +3,7 @@ title = "El Jinete y el Elefante"
 description = ""
 author = "David"
 date = "2021-03-31"
+fecha = "31 Marzo 2021"
 isFullPage = "true"
 categories = ["mente"]
 tags = ["motivación", "disciplina"]

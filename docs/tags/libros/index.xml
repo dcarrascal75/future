@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>libros on VidaEficiente</title>
+    <link>http://vidaeficiente.es/tags/libros/</link>
+    <description>Recent content in libros on VidaEficiente</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Tue, 06 Apr 2021 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://vidaeficiente.es/tags/libros/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Superpoderes del éxito para gente normal</title>
+      <link>http://vidaeficiente.es/blog/superpoderes_del_exito/</link>
+      <pubDate>Tue, 06 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidaeficiente.es/blog/superpoderes_del_exito/</guid>
+      <description>Un libro fácil de leer, ameno y que no engaña: &amp;hellip;&amp;ldquo;trabajando como un cabrón&amp;rdquo; 😄
+Autor: Mago More.
+Valoración: (5/5) 👍👍👍👍👍
+Primera impresión cuando lo ví: &amp;ldquo;Espera un momento&amp;hellip; si éste tío es el graciosillo éste que sale de actor secundario en los gags de José Mota&amp;hellip; Y ha escrito un libro? Venga ya&amp;hellip;&amp;rdquo;
+Por suerte me decidí a comprarlo. Es de lo mejor que he leído. Y ojo, que en realidad no dice nada que en el fondo no sepas.</description>
+    </item>
+    
+    <item>
+      <title>Libros</title>
+      <link>http://vidaeficiente.es/books/booklist/</link>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidaeficiente.es/books/booklist/</guid>
+      <description>Esta es la lista de libros que aconsejo leer, y una breve reseña sobre ellos.
+Superpoderes del éxito para gente normal.
+Pronto más libros recomendados&amp;hellip;</description>
+    </item>
+    
+  </channel>
+</rss>

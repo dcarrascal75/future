@@ -4,11 +4,12 @@ baseurl                 = "http://vidaeficiente.es/"
 DefaultContentLanguage  = "es"
 title                   = "VidaEficiente"
 theme                   = "hugo-future-imperfect-slim"
-paginate                = 3
+paginate                = 5
 disqusShortname         = "vidaeficiente-es"
 googleAnalytics         = ""
 pluralizeListTitles     = false
 disableLanguages        = []
+enableEmoji             = true
 
 [markup.goldmark.renderer]
   unsafe                = true

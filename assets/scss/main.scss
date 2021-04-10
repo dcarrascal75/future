@@ -693,7 +693,7 @@ figcaption {
   background:	$white;
   margin: 1.5em auto;
   padding: 1em;
-  max-width: 75em;
+  max-width: 70em;
   > header {
     border-bottom: $primary-border;
     margin: -1em -1em 0 -1em;
@@ -721,6 +721,12 @@ figcaption {
     text-align: justify;
     color: black;
     font-size:110%
+  }
+  > div > p > a,
+  > a {
+    text-align: justify;
+    color: rgb(53, 53, 128);
+    font-size:100%
   }
   footer {
     @include display-flex;

@@ -6,41 +6,39 @@
     <description>Recent content on VidaEficiente</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Thu, 28 Feb 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Feb 2021 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="http://vidaeficiente.es/en/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The Rider and the Elephant</title>
-      <link>http://vidaeficiente.es/en/blog/jineteyelefante/</link>
+      <link>http://vidaeficiente.es/en/blog/jinete_y_elefante/</link>
       <pubDate>Wed, 31 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://vidaeficiente.es/en/blog/jineteyelefante/</guid>
-      <description>The reason why I&amp;rsquo;ve chosen the image of a man on the back of an elephant as the logo for this blog is not something accidental. When I read this analogy for the first time, it seemed like a comparison that, in addition to being simple, was quite useful for explaining and dealing with certain everyday situations. &amp;lt;! - more -&amp;gt;
+      <guid>http://vidaeficiente.es/en/blog/jinete_y_elefante/</guid>
+      <description>The reason why I&amp;rsquo;ve chosen the image of a man on the back of an elephant as the logo for this blog is not something accidental. When I read this analogy for the first time, it seemed like a comparison that, in addition to being simple, was quite useful for explaining and dealing with certain everyday situations.
 It was in the book &amp;ldquo;Superpowers for normal people&amp;rdquo; by Mago More, (who in turn extracted it from another author).</description>
-    </item>
-    
-    <item>
-      <title>About me &amp; the blog</title>
-      <link>http://vidaeficiente.es/en/about/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
-      
-      <guid>http://vidaeficiente.es/en/about/</guid>
-      <description>I&amp;rsquo;m David, a normal guy, in my 40s, father of two, paid mortgage &amp;hellip; and as many people, looking for tips to take advantage of my time and effort.
-I live in a small flat. Both my partner and I have a normal job: I&amp;rsquo;m a long way from what they call &amp;ldquo;Financial Independence&amp;rdquo;&amp;hellip; My children and home consume much of my time. That is why I think my experiences can serve most people that probably are in the more or less same situation.</description>
     </item>
     
     <item>
       <title>Books</title>
       <link>http://vidaeficiente.es/en/books/booklist/</link>
-      <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 30 Mar 2021 00:00:00 +0000</pubDate>
       
       <guid>http://vidaeficiente.es/en/books/booklist/</guid>
-      <description>Listado de libros en ingles
-Book 1.
-Written in Go, Hugo is an open source static site generator available under the Apache Licence 2.0. Hugo supports TOML, YAML and JSON data file types, Markdown and HTML content files and uses shortcodes to add rich content. Other notable features are taxonomies, multilingual mode, image processing, custom output formats, HTML/CSS/JS minification and support for Sass SCSS workflows.
-Hugo makes use of a variety of open source projects including:</description>
+      <description>This is the list of books I reccomend to read, and a brief overview. (I&amp;rsquo;ll list here the English edition when available)
+(Still working on it&amp;hellip;I&amp;rsquo;ll add stuff very soon)</description>
+    </item>
+    
+    <item>
+      <title>About me &amp; the blog</title>
+      <link>http://vidaeficiente.es/en/about/</link>
+      <pubDate>Sun, 28 Feb 2021 00:00:00 +0000</pubDate>
+      
+      <guid>http://vidaeficiente.es/en/about/</guid>
+      <description>I&amp;rsquo;m David, a normal guy, in my 40s, father of two, paid mortgage &amp;hellip; and as many people, looking for tips to take advantage of my time and effort.
+I live in a small flat. Both my partner and I have a normal job: I&amp;rsquo;m a long way from what they call &amp;ldquo;Financial Independence&amp;rdquo;&amp;hellip; My children and home consume much of my time. That is why I think my experiences can serve most people that probably are more or less on same situation.</description>
     </item>
     
     <item>
