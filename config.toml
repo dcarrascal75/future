@@ -6,7 +6,9 @@ title                   = "VidaEficiente"
 theme                   = "hugo-future-imperfect-slim"
 paginate                = 5
 disqusShortname         = "vidaeficiente-es"
-googleAnalytics         = "G-JW3D3TKX5W"
+googleAnalytics         = "UA-194304858-1"
+#UA-194304858-1
+#G-JW3D3TKX5W
 pluralizeListTitles     = false
 disableLanguages        = []
 enableEmoji             = true
